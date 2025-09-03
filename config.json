@@ -1,5 +1,5 @@
 {
-  "version": "v2025.8.20",
+  "version": "v2025.9.2",
   "path": "",
   "language": "",
   "xray": {
@@ -20,6 +20,7 @@
     "path": "",
     "privateKey": "",
     "publicKey": "",
+    "hash32": "",
     "target": "",
     "serverNames": [
       ""
